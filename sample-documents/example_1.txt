@@ -1,1 +1,3 @@
-Hello, my name is Sarah Anderson. My phone number is 555-123-4567 and my email is sarah@example.com.
+Hello, my name is Sarah Johnson. My phone number is (555) 123-4567 and my SSN is 123-45-6789.
+You can contact me at sarah.johnson@example.com. I live at 456 Elm Street, Springfield, IL.
+
