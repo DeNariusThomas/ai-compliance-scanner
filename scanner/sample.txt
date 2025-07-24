@@ -1,0 +1,5 @@
+Name: Sarah Johnson  
+SSN: 123-45-6789  
+Email: sarah.johnson@email.com  
+Phone: (555) 123-4567  
+Address: 123 Main St, Springfield, IL
